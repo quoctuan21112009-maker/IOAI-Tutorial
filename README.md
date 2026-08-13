@@ -103,4 +103,4 @@ A machine learning course designed for high school students, inspired by the USA
 * 7.4. Generative Adversarial Network, Adversarial Attack
 * 7.5. Stable Diffusion, Denoising Diffusion Probabilistic Methods
 * 7.6. State Space Models, Selective State Spaces (Mamba Case Study)
-
+.
